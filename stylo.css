@@ -1,0 +1,19 @@
+table{
+    border: solid black;
+    width: 400px;
+    height: 450px;
+    margin: 180px;
+    padding: 5px;
+    
+    
+}
+thead th {
+    border: ;
+    background-color:#e9edc9;
+    
+}
+ 
+tr:nth-child(2n+1){
+    background-color: blue;
+    
+}
